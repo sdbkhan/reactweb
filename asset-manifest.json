@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactweb/static/css/main.f8c49c9b.chunk.css",
+    "main.js": "/reactweb/static/js/main.f2421ac4.chunk.js",
+    "main.js.map": "/reactweb/static/js/main.f2421ac4.chunk.js.map",
+    "runtime-main.js": "/reactweb/static/js/runtime-main.4f7c84f8.js",
+    "runtime-main.js.map": "/reactweb/static/js/runtime-main.4f7c84f8.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/reactweb/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.08d653a9.chunk.js": "/reactweb/static/js/2.08d653a9.chunk.js",
+    "static/js/2.08d653a9.chunk.js.map": "/reactweb/static/js/2.08d653a9.chunk.js.map",
+    "index.html": "/reactweb/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/reactweb/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.f8c49c9b.chunk.css.map": "/reactweb/static/css/main.f8c49c9b.chunk.css.map",
+    "static/js/2.08d653a9.chunk.js.LICENSE.txt": "/reactweb/static/js/2.08d653a9.chunk.js.LICENSE.txt",
+    "static/media/apartment.48eb8ab3.png": "/reactweb/static/media/apartment.48eb8ab3.png",
+    "static/media/app.4710d8be.jpg": "/reactweb/static/media/app.4710d8be.jpg",
+    "static/media/aptmnt2.925f3373.jpg": "/reactweb/static/media/aptmnt2.925f3373.jpg",
+    "static/media/aptmnt3.352ab98b.jpg": "/reactweb/static/media/aptmnt3.352ab98b.jpg",
+    "static/media/img1.23bd522d.jpg": "/reactweb/static/media/img1.23bd522d.jpg",
+    "static/media/img3.b2966805.jpg": "/reactweb/static/media/img3.b2966805.jpg",
+    "static/media/seo.ae20271d.png": "/reactweb/static/media/seo.ae20271d.png",
+    "static/media/website.7403bb2f.png": "/reactweb/static/media/website.7403bb2f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f7c84f8.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.08d653a9.chunk.js",
+    "static/css/main.f8c49c9b.chunk.css",
+    "static/js/main.f2421ac4.chunk.js"
+  ]
+}
